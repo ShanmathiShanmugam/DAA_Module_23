@@ -13,8 +13,8 @@ To write a python program to find the maximum contiguous subarray.
 
 ## Program:
 ```
-Developed by: VAISHALI BALAMURUGAN
-Register Number: 212222230164
+Developed by: S.SHANMATHI
+Register Number: 212222100049
 ```
 ```PYTHON
 def maxSubArraySum(a,size):
