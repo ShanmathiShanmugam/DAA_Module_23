@@ -12,8 +12,8 @@ To compute the fewest number of coins that we need to make up the amount given.
 5. At the end, return the answer from dp[amount]
 ## Program:
 ```
-Developed by: VAISHALI BALAMURUGAN
-Register Number: 212222230164
+Developed by: S.SHANMATHI
+Register Number: 212222100049
 ```
 ```PYTHON
 class Solution(object):
